@@ -1,0 +1,5 @@
+{
+  "name": "Secure Key Gen Thai",
+  "description": "A secure, client-side password and cryptographic key generator with a modern UI, fully localized in Thai.",
+  "requestFramePermissions": []
+}
